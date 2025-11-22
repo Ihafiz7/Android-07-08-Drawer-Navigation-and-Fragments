@@ -8,17 +8,23 @@
     android:padding="16dp"
     android:theme="@style/ThemeOverlay.Material3.Dark">
 
+<!--    <ImageView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="150dp"-->
+<!--        android:src="@drawable/orange"-->
+<!--        android:padding="5dp" />-->
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="My Application"
+        android:text="My Almary"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
         android:textColor="@android:color/white" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="user@example.com"
+        android:text="Drawer, Navigation, Botom Navigation"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="@android:color/white" />
 
